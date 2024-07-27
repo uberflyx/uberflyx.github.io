@@ -1,200 +1,307 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Mitchell (Mitch) A. Cox",
+    "email": "mitchell.cox@wits.ac.za",
+    "phone": "+27 (0) 74 173 2692",
+    "url": "https://linkedin.com/in/mitchellarijcox",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Johannesburg",
+      "countryCode": "ZA"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "mitchellarijcox",
+        "url": "https://linkedin.com/in/mitchellarijcox"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "Mitchell_Cox",
+        "url": "https://researchgate.net/profile/Mitchell_Cox"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "University of the Witwatersrand",
+      "position": "Senior Lecturer",
+      "startDate": "2021",
+      "endDate": "Present"
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "University of the Witwatersrand",
+      "position": "Lecturer",
+      "startDate": "2020",
+      "endDate": "2021"
+    },
+    {
+      "name": "University of the Witwatersrand",
+      "position": "Associate Lecturer",
+      "startDate": "2017",
+      "endDate": "2020"
+    },
+    {
+      "name": "University of the Witwatersrand",
+      "position": "Sessional Lecturer",
+      "startDate": "2015",
+      "endDate": "2016"
+    },
+    {
+      "name": "Kutaka (Pty) Ltd.",
+      "position": "Senior Software Developer / Architect",
+      "startDate": "2014",
+      "endDate": "2015",
+      "summary": "(Part Time) Designed architecture for a mobile scheduling application and performed software development work on the backend server and frontend web application."
+    },
+    {
+      "name": "Hatch Africa",
+      "position": "Junior Engineer, Systems and Process Control",
+      "startDate": "2012",
+      "endDate": "2013",
+      "summary": "Pre-operational testing and commissioning of a multi-billion dollar nickel mine and smelter in New Caledonia."
+    },
+    {
+      "name": "Hatch Africa",
+      "position": "Systems and Process Control",
+      "startDate": "2010",
+      "endDate": "2011",
+      "summary": "(Vacation Work) 2D and 3D Computer Aided Design experience, PLC's, ladder logic and SCADA experience."
+    },
+    {
+      "name": "S.A.M Electronics",
+      "position": "Software Developer and Technician",
+      "startDate": "2009",
+      "endDate": "2011",
+      "summary": "(Vacation Work) Developed an advanced data logging system with Human Machine Interface and backend software for a sophisticated battery monitoring system."
+    },
+    {
+      "name": "eNOX Technologies",
+      "position": "Founder",
+      "startDate": "2005",
+      "endDate": "Present",
+      "summary": "(Part Time) Electronic design and software development consulting. I started this business in high-school and predominantly did IT support in the early days."
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of the Witwatersrand, Johannesburg",
+      "area": "Improving the Resilience of Free-Space Optical Links using Structured Modes of Light",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2016",
+      "endDate": "2020",
+      "thesis": {
+        "title": "Improving the Resilience of Free-Space Optical Links using Structured Modes of Light"
+      }
+    },
+    {
+      "institution": "University of the Witwatersrand, Johannesburg",
+      "area": "Energy Reconstruction on the LHC ATLAS TileCal Upgraded Front End: Feasibility study for a sROD Co-Processing Unit",
+      "studyType": "MSc (Physics)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "thesis": {
+        "title": "Energy Reconstruction on the LHC ATLAS TileCal Upgraded Front End: Feasibility study for a sROD Co-Processing Unit"
+      }
+    },
+    {
+      "institution": "University of the Witwatersrand, Johannesburg",
+      "area": "Electrical Engineering (Information Engineering) with Distinction",
+      "studyType": "BSc (Eng)",
+      "startDate": "2008",
+      "endDate": "2011",
+      "score": "With Distinction"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Optica Ambassador",
+      "date": "2023",
+      "awarder": "Optica (formerly The Optical Society / OSA)",
+      "summary": "Recognized as one of the emerging leaders in optics and photonics."
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "Friedel Sellschop Fellowship",
+      "awarder": "Wits University",
+      "date": "2023",
+      "summary": "Awarded annually to a top early-career academic at the University."
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "title": "Most Cited Researcher in the Wits Engineering Faculty",
+      "date": "2019"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "title": "NRF Innovation Scholarship",
+      "date": "2016"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "NRF Scarce Skills Scholarship",
+      "date": "2014"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "See publications page"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "Programming",
+      "keywords": ["C#", "C++", "C", "Visual Basic .NET", "Java", "MPASM", "AVR Assembly", "Javascript", "Python", "MATLAB"]
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "name": "Software and Web Technologies",
+      "keywords": ["Unity", "Linux (Low-Level)", "Web Development", "Vue.js", "AngularJS", "Material", "Bootstrap", "CSS", "Wordpress", ".NET WebAPI"]
+    },
+    {
+      "name": "Electronics",
+      "keywords": ["Circuit Design", "PCB Layout", "Embedded Systems (Arduino, Bare Metal)", "ARM, Atmel, Microchip", "High Speed", "Audio", "Home Automation"]
+    },
+    {
+      "name": "'Maker' Skills",
+      "keywords": ["3D Printing", "CNC", "Laser Cutting", "Mechanical Mechanisms", "Single-Board Computers (RPi, etc.)"]
+    },
+    {
+      "name": "Specialist Software",
+      "keywords": ["Altium, kicad, Eagle", "Photoshop", "3ds max", "Fusion 360", "AutoCAD"]
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Hobbies",
+      "keywords": ["Electronics", "Software Dev", "Embedded Systems", "Homebrew HiFi", "Home Automation", "DIY"]
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Research",
+      "keywords": ["Optics and Photonics", "Structured Light", "FSO Communications", "Fibre Sensing", "Machine Learning", "Optical Computing"]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Research Grants Overview",
+      "startDate": "2018",
+      "summary": "These are only my major project grants, and is not a comprehensive list."
+    },
+    {
+      "name": "Bytes over Lights: Levelling up community connectivity with cost-effective optical wireless communication",
+      "startDate": "2024",
+      "endDate": "2024",
+      "summary": "(PI) This project addresses the digital divide in rapidly urbanizing developing nations, where conventional internet infrastructure is cost-prohibitive. Despite high mobile coverage in South Africa, affordability remains a significant barrier. The research aims to narrow this gap by integrating innovative optical wireless technology with existing community WiFi networks. Collaborating with RIOT Network and PeCo Power, the project will enhance network speed and reliability while ensuring consistent operation through solar power solutions, particularly crucial during frequent power outages. This approach seeks to provide more affordable and accessible internet connectivity in low-income urban areas.",
+      "highlights": ["Royal Academy of Engineering, Transforming Systems through Partnership (UK)", "Partners: Martin Lavery (U of Glasgow), RIOT Network, PeCo Power"],
+      "url": ""
+    },
+    {
+      "name": "Levelling up wireless optical communications with structured light and machine learning",
+      "startDate": "2023",
+      "endDate": "2025",
+      "summary": "(PI) This project aims to address the digital divide in Africa by developing affordable, long-range Free Space Optical (FSO) communication technology. The research focuses on increasing the range and bandwidth of FSO systems using innovative techniques such as modal diversity, mode division multiplexing, and machine learning. The goal is to create a prototype FSO system that provides multi-gigabit data throughput over long distances using cost-effective, off-the-shelf hardware, potentially bridging the last few kilometers to fiber networks in developing countries.",
+      "highlights": ["NRF Thuthuka (South Africa)"],
+      "url": ""
+    },
+    {
+      "name": "\"Fibre\" before the fibre: Bridging the Digital Divide in Informal Settlements",
+      "startDate": "2021",
+      "endDate": "2023",
+      "summary": "(PI) This project addresses the critical need for communication infrastructure in rapidly growing informal settlements in developing nations like South Africa. The research focuses on implementing a prototype self-powered, multi-gigabit wireless optical communication system to provide fast and reliable internet access to a primary school in an underserved community. The project aims to deliver immediate educational benefits through international school connections and develop a technical roadmap for broader deployment. Key objectives include investigating the requirements, viability, and potential impact of easy-to-install, solar-powered wireless optical connectivity in peri-urban informal settlements, engaging with various stakeholders to create a strategy for rapid rollout of communication technologies in emerging communities internationally.",
+      "highlights": ["Royal Academy of Engineering, Transforming Systems through Partnership (UK)", "Partners: Martin Lavery (U of Glasgow), Andrew Ellis (Aston), Andrew Forbes (Wits), PeCo Power"],
+      "url": ""
+    },
+    {
+      "name": "The Development of a Low-Cost, High-Speed and Long-Range Free-Space Optical Communication Transceiver",
+      "startDate": "2020",
+      "endDate": "2023",
+      "summary": "(PI) This project addresses the digital divide in Africa by developing a prototype Free Space Optical (FSO) communication system. The research aims to create a reliable, long-range, multi-gigabit data throughput system using cost-effective, off-the-shelf hardware. The project explores innovative optical techniques such as modal diversity and mode division multiplexing, combined with optimized digital signal processing. The goal is to provide a viable alternative to current radio-based technologies, potentially retrofitting existing microwave link high-sites with FSO technology. This research not only aims to bridge the gap in internet infrastructure but also presents a significant business opportunity for a locally-manufactured product.",
+      "highlights": ["NRF Thuthuka (South Africa)"],
+      "url": ""
+    },
+    {
+      "name": "Miner Safety System: Tracking Underground Miners with their Headlamps",
+      "startDate": "2018",
+      "endDate": "2019",
+      "summary": "(PI) This project aimed to develop an innovative Internet-of-Things (IoT) solution for improving miner safety and operational efficiency in underground mines. The system utilizes a combination of Power Line Communication (PLC) and Visible Light Communication (VLC) technologies to create a robust information transmission network. By modifying LED-based miners' headlamps to emit unique, imperceptible signatures and installing sensors throughout the mine, the system enables continuous location tracking of miners. Additional features include pedometers for movement monitoring and temperature sensors for environmental tracking. This comprehensive approach not only enhances rescue efforts in emergencies but also provides valuable data for optimizing mining operations, improving both safety and efficiency.",
+      "highlights": ["Technology Innovation Agency (South Africa)", "Partners: Ling Cheng (Wits)"],
+      "url": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "IEEE Globecom Workshops, South Africa",
+      "position": "(Co-Chair) Workshop on Optical Wireless Communications: Energy Efficiency, Resilience, and Pervasive Coverage",
+      "startDate": "2024",
+      "endDate": "2024",
+      "url": "https://globecom2024.ieee-globecom.org/workshop/ws-20-workshop-optical-wireless-communications-energy-efficiency-resilience-and-pervasive"
+    },
+    {
+      "organization": "Optica Laser Congress and Exhibition, Japan",
+      "position": "(Committee) Applications of Lasers for Sensing and Free Space Communications (LS&C)",
+      "startDate": "2024",
+      "endDate": "2024",
+      "url": "https://www.optica.org/events/congress/laser_congress/program/lasers_for_sensing_and_free_space_communications/"
+    },
+    {
+      "organization": "Seventh International Conference on Optical Angular Momentum (ICOAM), South Africa",
+      "position": "Local Organising Committee",
+      "startDate": "2024",
+      "endDate": "2024",
+      "url": "https://www.wits.ac.za/icoam2024"
+    },
+    {
+      "organization": "Optica (formerly The Optical Society / OSA)",
+      "position": "Applied Optics Topical Editor",
+      "startDate": "2023",
+      "endDate": "Present"
+    },
+    {
+      "organization": "Optica (formerly The Optical Society / OSA)",
+      "position": "Optica Ambassador",
+      "startDate": "2023",
+      "endDate": "Present"
+    },
+    {
+      "organization": "Wits Senate eResearch Committee",
+      "position": "Faculty of Engineering Representative",
+      "startDate": "2022",
+      "endDate": "Present"
+    },
+    {
+      "organization": "Wits-Optics Student Chapter",
+      "position": "Chapter Advisor",
+      "startDate": "2021",
+      "endDate": "Present"
+    },
+    {
+      "organization": "Wits Senate ICT Committee",
+      "position": "Faculty of Engineering Representative",
+      "startDate": "2019",
+      "endDate": "Present"
+    },
+    {
+      "organization": "South African Institute of Physics",
+      "position": "Photonics Division Committee Member",
+      "startDate": "2018",
+      "endDate": "2024"
+    }
+  ],
+  "memberships": [
+    {
+      "organization": "South African Institute of Electrical Engineers (SAIEE)",
+      "position": "Member"
+    },
+    {
+      "organization": "IEEE",
+      "position": "Senior Member",
+      "summary": "IEEE Communication and Photonics Societies"
+    },
+    {
+      "organization": "SPIE",
+      "position": "Member"
+    },
+    {
+      "organization": "Optica",
+      "position": "Member"
+    },
+    {
+      "organization": "South African Institute of Physics (SAIP)",
+      "position": "Member"
     }
   ]
 }

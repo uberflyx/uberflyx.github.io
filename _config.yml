@@ -10,8 +10,8 @@ email: mitchell.cox@wits.ac.za
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal | Academic | Hobbyist Web Site
 footer_text: >
-  :: <a href="https://github.com/alshedivat/al-folio">Contact Me</a> ::
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+  :: <a href="mailto:mitchell.cox@wits.ac.za">Contact Me</a> ::
+keywords: mitchell cox, structured light, optical computing # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon-32x32.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -118,7 +118,7 @@ contact_note: >
 
 # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
 # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
-google_analytics: # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: G-RL6STNM5B6 # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 
@@ -159,7 +159,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname:  # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -311,7 +311,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Cox]
-  first_name: [Mitchell A., Mitchell A, Mitchell, Mitchell Arij]
+  first_name: [Mitchell A., Mitchell A, Mitchell, Mitchell Arij, Mitch]
 
   style: ieee
   locale: en
@@ -419,7 +419,7 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics: false # enables google analytics
+enable_google_analytics: true # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
 enable_pirsch_analytics: false # enables Pirsch analytics (https://pirsch.io/)
 enable_google_verification: false # enables google site verification
@@ -428,7 +428,7 @@ enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
-enable_navbar_social: false # enables displaying social links in the navbar on the about page
+enable_navbar_social: true # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
